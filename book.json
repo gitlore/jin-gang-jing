@@ -1,0 +1,12 @@
+{
+    "links" : {
+        "sidebar" : {
+            "知行-gitlore" : "https://gitlore.com"
+        }
+    },
+    "plugins" : [
+        "-search",
+        "-lunr",
+        "-livereload"
+    ]
+}
